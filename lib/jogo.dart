@@ -108,10 +108,7 @@ class _jogoState extends State<jogo> {
                   onTap: () => _opcaoSelecionada("tesoura"),
                   child:Image.asset("images/tesoura.png", height: 100,)
               ),
-              /*Image.asset("images/pedra.png", height: 100,),
-              Image.asset("images/papel.png", height: 100,),
-              Image.asset("images/tesoura.png", height: 100,),
-            */
+              
             ],
 
           )
