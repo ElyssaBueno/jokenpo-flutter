@@ -65,7 +65,7 @@ class _jogoState extends State<jogo> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Jokenpo"),
-        backgroundColor: Colors.redAccent,
+        backgroundColor: Colors.pinkAccent,
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
